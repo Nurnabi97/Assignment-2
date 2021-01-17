@@ -1,0 +1,21 @@
+*{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.bk{
+	background-color:#FFFBF0;
+	min-height:400px;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+/* .second-css{
+	margin-top: 50px;
+} */
+.price-bar{
+	margin-bottom: 50px;
+}
+
+.last-section{
+	/* background-color: lightgray; */
+}
